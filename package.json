@@ -1,0 +1,24 @@
+{
+  "name": "localxpbot-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cpu-stat": "^2.0.1",
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0",
+    "epicgames-client": "^2.0.25",
+    "epicgames-fortnite-client": "^2.0.18",
+    "fortnite-basic-api": "^1.6.1",
+    "fs": "0.0.1-security",
+    "git": "^0.1.5",
+    "jsonfile": "^6.0.1",
+    "moment": "^2.27.0",
+    "random": "^2.2.0"
+  }
+}
